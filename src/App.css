@@ -1,0 +1,560 @@
+/*****************************************************************************/
+/* Dummy logo image styling */
+/*****************************************************************************/
+#img{
+  margin: auto;
+  display: block;
+  width: 215px; /* 13 % */
+  padding: 10px;
+
+}
+/*****************************************************************************/
+/*****************************************************************************/
+
+
+/*****************************************************************************/
+/* First top Navbar Styling*/
+/*****************************************************************************/
+
+/*Text bold*/
+.ForBold{
+  font-weight : bold;
+}
+
+/*Navbar1 HR align*/
+.navHR{
+  margin-top: -5px ;
+  margin-bottom: -25px ;
+}
+
+/*Navbar 1 image styling*/
+.Flag{
+  
+  width: 45px; /* 13 % */
+  padding: 10px;
+  margin-right:0px;
+  margin-left:0px;
+  margin-bottom: 2px;
+}
+.Flag2{
+  margin: auto;
+  
+  width: 45px; /* 13 % */
+  padding: 10px;
+  margin-right:0px;
+}
+.NavBRD{
+  margin-left:-20px;
+  margin-right:-40px;
+  margin-top: -19px;
+  margin-bottom: -20px;
+}
+
+.DropdownlistStyling{
+margin-top:5px;
+}
+
+.Location{
+  margin: auto;
+  width: 35px; /* 13 % */
+  padding: 8px;
+  margin-right:-10px;
+}
+.Location2{
+  margin: auto;
+  width: 35px; /* 13 % */
+  padding: 8px;
+  margin-right:0px;
+  margin-left:0px;
+}
+.Contact{
+  margin: auto;
+  width: 35px; /* 13 % */
+  padding: 10px;
+  margin-right:0px;
+
+}
+.Login{
+  margin: auto;
+  width: 33px; /* 13 % */
+  padding: 10px;
+  margin-right:0px;
+
+}
+.Wishlist{
+  margin: auto;
+  width: 35px; /* 13 % */
+  padding: 10px;
+  margin-right:0px;
+}
+
+/* Hide Navbar 2 Details*/
+.NavHidden{
+  visibility: hidden!important;
+  display:  none !important;
+  }
+
+  /*mobile Layout for total one navbar */
+  @media only screen and (max-width: 1000px) {
+    .NavHidden{
+      visibility: visible!important;
+      display:   inline!important;
+      }
+      .Location{
+        visibility: hidden!important;
+        display:  none !important;
+      }
+      .Flag{
+        visibility: hidden!important;
+        display:  none !important;
+      }
+      .Location2{
+        visibility: hidden!important;
+        display:  none !important;
+      }
+      .Contact{
+        visibility: hidden!important;
+        display:  none !important;
+      }
+      .Login{
+        visibility: hidden!important;
+        display:  none !important;
+      }
+      .Wishlist{
+        visibility: hidden!important;
+        display:  none !important;
+      }
+      .HorizontalHide{
+        visibility: hidden!important;
+      
+      }
+  }
+
+/*****************************************************************************/
+/*****************************************************************************/
+
+
+/*****************************************************************************/
+/*Navbar 2 Styling*/
+/*****************************************************************************/
+
+/*Navbar 2 Fold bold*/
+.container{
+  font-weight : bold;
+}
+
+/*Navbar 2 search icon styling*/
+#SearchIMG{
+  width: 30px; /* 13 % */
+  padding: 8px;
+  padding-top: -8px;
+  margin-top: -5px;
+}
+.Nav2Hidden{
+visibility: hidden;
+display:none;
+}
+
+/*****************************************************************************/
+/*****************************************************************************/
+
+
+/*****************************************************************************/
+/* ImageContent styling (Fade ImageSlider)*/
+/*****************************************************************************/
+
+/* Ring Image Slider styling*/
+#RingIMG2{
+  width:100%;
+  max-width: 100%;
+  height: 550px auto;
+  max-height: 100%;
+  image-resolution: 300dpi;
+}
+
+/* Text above those fb ig icon styling*/
+.FontColorStyle{
+  color:#a19c9c;
+  font-weight : bold;
+}
+
+/* earing and flexbox styling*/
+h2 {
+  text-align: center; }
+p{
+  text-align: center;
+}
+
+/*****************************************************************************/
+/*****************************************************************************/
+
+
+/*****************************************************************************/
+/* ImageContent2 Styling (Image with flexbox content)*/
+/*****************************************************************************/
+#RingIMG{
+  width: 1200px;
+  max-width: auto ;
+  height: auto;
+  max-height: auto;
+}
+.StylingBody{
+  align-items: center;
+  background-color: rgb(248, 246, 246);
+  
+}
+.Stylingbody2{
+  height: auto;
+  margin: auto;
+  width: auto;
+  align-content: center;
+}
+.container2{
+  width: 1750px ;
+  max-width: 100%;
+  height: 500px auto;
+  margin: auto;
+}
+
+
+
+
+/*****************************************************************************/
+/*****************************************************************************/
+
+
+/*****************************************************************************/
+/*CardObject Styling */
+/*****************************************************************************/
+
+.container4{
+  width: 1950px ;
+  max-width: 100%;
+  height: 500px auto;
+  margin: auto;
+  
+
+}
+/* Card section styling*/
+.card{
+  
+  text-align: center;
+
+}
+/* Card section styling*/
+.MarginCard{
+  max-width: 90%;
+  width: 90%;
+  overflow: hidden;
+  margin:auto;
+  
+  
+}
+
+/* card img styling*/
+.CardIMGWidth{
+  max-width: 50%;
+  min-width: 25%;
+  
+}
+.TittleBackground{
+  background-color: rgb(248, 246, 246);
+}
+
+/*****************************************************************************/
+/*****************************************************************************/
+
+
+/*****************************************************************************/
+/* instagram photo styling*/
+/*****************************************************************************/
+
+/*instagram section styling*/
+#InstagramDesc{
+  text-align: center;
+  margin-left: 10px;
+}
+
+
+/*ig img from ig web styleing*/
+#instafeed{
+  list-style:none;
+width: 100%;
+}
+
+#instafeed li{
+  display: inline-block;
+  width:300px;
+  height:300px;
+  margin:15px;
+  margin-left: 0px;  
+}
+
+#instafeed li img{
+  width: 100%;
+  height: 100%;
+  max-width:100%;
+  max-height:100%;
+}
+
+.Setwidth{
+  margin-right: 27px;
+  margin-left: -15px;
+}
+
+/* DiscoverMore button styling*/
+.btn2{
+  text-transform: uppercase;
+  font-size:20px;
+  width:240px;
+  height:70px;
+  border-radius:80px;
+  line-height:60px;
+  text-align:center;
+  border: 3px solid #5c0429;
+  display:block;
+  text-decoration: none;
+  margin: 35px auto;
+  color:#000000;
+  position:relative;
+  overflow: hidden;
+  background: transparent;
+  transition :.3s;
+}
+
+.btn2:before{
+  content:'';
+  width : 100%;
+  height : 100%;
+  position : absolute;
+  background: #5c0429;
+  opacity: .5;
+  top: -100%;
+  left: 0;
+  z-index : -1;
+  transition: .3s;
+}
+.btn2:after{
+  content:'';
+  width : 100%;
+  height : 100%;
+  position : absolute;
+  background: #5c0429;
+  top: -100%;
+  left: 0;
+  z-index : -1;
+  transition: .3s;
+  transition-delay: .2s;
+}
+.btn2:hover{
+  color:#fff;
+}
+.btn2:hover:before{
+  top:0;
+}
+.btn2:hover:after{
+  top:0;
+}
+
+/* Instagram logo image styling */
+#img2{
+  margin: auto;
+  display: block;
+  width: 100px; /* 13 % */
+  padding: 10px;
+}
+
+/*****************************************************************************/
+/*****************************************************************************/
+
+
+
+/*****************************************************************************/
+/* Subscribe Styling*/
+/*****************************************************************************/
+
+/* 5 icon fb ig .. styling*/
+.Testing{
+  width: 100%; /* 13 % */
+}
+#fb{
+  width: 90px; 
+  padding: 20px;
+}
+#ig{
+  width: 90px; 
+  padding: 20px;
+}
+#youtube{
+  width: 90px; 
+  padding: 20px;
+}
+#pinterest{
+  width: 90px; 
+  padding: 20px;
+}
+#twitter{
+  width: 90px; 
+  padding: 20px;
+}
+
+
+/*input  text subscribe styling*/
+.inputText{
+  font-size:14px;
+  width:285px;
+  height:61px;
+  border-radius:80px;
+  line-height:60px;
+  text-align:left;
+  border: 2px solid #d4ced1;
+
+  text-decoration: none;
+  margin: 0px auto;
+  margin-left: -200px;
+  color: #000000;
+  
+  overflow: hidden;
+  background: transparent;
+  transition :.3s;
+  position:absolute;
+  padding-left:33px;
+ 
+}
+
+
+/*subscribe button*/
+.btn3{
+  margin-left: 20px;
+  padding-top: -900px;
+  text-transform: uppercase;
+  font-size:20px;
+  width:160px;
+  height:61px;
+
+  border-radius:80px;
+  line-height:50px;
+  text-align:center;
+  border: 2px solid #80294d;
+
+  text-decoration: none;
+
+  color:#ffffff;
+  position:absolute;
+  overflow: hidden;
+  background: #80294d;
+  transition :.3s;
+
+}
+/*subscribe button*/
+input::placeholder {
+  color: #a19c9c;
+    font-weight : bold;
+}
+
+/* Text above those fb ig icon styling*/
+.FontColorStyle{
+  color:#a19c9c;
+  font-weight : bold;
+}
+
+/*****************************************************************************/
+/*****************************************************************************/
+
+
+
+
+/*****************************************************************************/
+/* Footer Styling
+/*****************************************************************************/
+
+/* footer color styling*/
+#message {
+  padding: 100px 0px;
+  background: #000000d7;
+}
+
+/*style align for the About us Legal Corporate to look same line with footer content*/
+.white{
+  color: #ffffff;
+  margin-right: 80px;
+}
+.white1{
+  color: #ffffff;
+  margin-left: 16px;
+  
+}
+.white2{
+  color: #ffffff;
+  margin-right: 90px;
+}
+
+/*footer content styling and text to the left*/
+.FooterNavColor{
+  height:61px;
+  text-align:left;
+  color:#817d7d;
+  position:relative;
+  overflow: hidden;
+  background: #80294d00;
+  transition :.3s;
+  font-weight : bold;
+
+}
+
+/*align footer content to the center */
+.FooterNavAlign{
+  align-content: center;
+  padding-bottom:50px;
+
+}
+.FooterNavAlign1{
+  align-content: center;
+  margin-left: -10px;
+  padding-bottom:50px;
+}
+.FooterNavAlign2{
+  align-content: center;
+  margin-left: -100px;
+  padding-bottom:50px;
+}
+/*****************************************************************************/
+/*****************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
