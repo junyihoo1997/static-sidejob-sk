@@ -2,6 +2,7 @@
   "name": "axrail-web",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://junyihoo1997.github.io/static-sidejob-sk/",
   "dependencies": {
     "animate.css": "^3.7.2",
     "bootstrap": "^4.3.1",
@@ -20,6 +21,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -36,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
