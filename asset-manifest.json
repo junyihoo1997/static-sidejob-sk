@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static-sidejob-sk/static/css/main.293ecca1.chunk.css",
+    "main.js": "/static-sidejob-sk/static/js/main.4a98bd22.chunk.js",
+    "main.js.map": "/static-sidejob-sk/static/js/main.4a98bd22.chunk.js.map",
+    "runtime~main.js": "/static-sidejob-sk/static/js/runtime~main.f9ff3e0f.js",
+    "runtime~main.js.map": "/static-sidejob-sk/static/js/runtime~main.f9ff3e0f.js.map",
+    "static/css/2.5fa35e15.chunk.css": "/static-sidejob-sk/static/css/2.5fa35e15.chunk.css",
+    "static/js/2.28d84c1e.chunk.js": "/static-sidejob-sk/static/js/2.28d84c1e.chunk.js",
+    "static/js/2.28d84c1e.chunk.js.map": "/static-sidejob-sk/static/js/2.28d84c1e.chunk.js.map",
+    "index.html": "/static-sidejob-sk/index.html",
+    "precache-manifest.1e8f1b06e6ad3a1b1f27ec877e121ef3.js": "/static-sidejob-sk/precache-manifest.1e8f1b06e6ad3a1b1f27ec877e121ef3.js",
+    "service-worker.js": "/static-sidejob-sk/service-worker.js",
+    "static/css/2.5fa35e15.chunk.css.map": "/static-sidejob-sk/static/css/2.5fa35e15.chunk.css.map",
+    "static/css/main.293ecca1.chunk.css.map": "/static-sidejob-sk/static/css/main.293ecca1.chunk.css.map",
+    "static/media/Earing2.jpg": "/static-sidejob-sk/static/media/Earing2.96921b10.jpg",
+    "static/media/Facebook.png": "/static-sidejob-sk/static/media/Facebook.f007e505.png",
+    "static/media/Instagramlogo.png": "/static-sidejob-sk/static/media/Instagramlogo.ed28a4b0.png",
+    "static/media/Login.PNG": "/static-sidejob-sk/static/media/Login.56e1ed34.PNG",
+    "static/media/Ring.jpg": "/static-sidejob-sk/static/media/Ring.bec15a0a.jpg",
+    "static/media/Ring2.jpg": "/static-sidejob-sk/static/media/Ring2.94abb852.jpg",
+    "static/media/Ring3.jpg": "/static-sidejob-sk/static/media/Ring3.5b764988.jpg",
+    "static/media/Ring5.jpg": "/static-sidejob-sk/static/media/Ring5.9c5e8b19.jpg",
+    "static/media/Wishlist.png": "/static-sidejob-sk/static/media/Wishlist.3bff56a9.png",
+    "static/media/bracelets2.jpg": "/static-sidejob-sk/static/media/bracelets2.df2f0b10.jpg",
+    "static/media/dummy+logo.jpg": "/static-sidejob-sk/static/media/dummy+logo.9eddb987.jpg",
+    "static/media/location.png": "/static-sidejob-sk/static/media/location.56852311.png",
+    "static/media/watch2.jpg": "/static-sidejob-sk/static/media/watch2.6da9d39f.jpg"
+  }
+}
